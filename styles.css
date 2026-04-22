@@ -346,14 +346,14 @@ body {
     background: linear-gradient(to right, rgba(52, 152, 219, 0.2), rgba(41, 128, 185, 0.1));
     color: white;
     transform: translateX(5px);
-    border-left: 4px solid #e74c3c;
+    border-left: 4px solid #242626;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .sidebar-link.active {
     background: linear-gradient(to right, #3498db, #2980b9);
     color: white;
-    border-left: 4px solid #e74c3c;
+    border-left: 4px solid #242626;
     box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
 }
 
@@ -839,7 +839,7 @@ body {
 }
 
 .main-footer p {
-    font-size: 0.95rem;
+    font-size: 0.70rem;
 }
 
 /* Popup Styles */
@@ -1561,7 +1561,7 @@ body {
     
     .email-display-value {
         background: linear-gradient(135deg, #2d2d2d 0%, #1e1e1e 100%);;
-        color: #bbdefb;
+        color: white;
         border-color: #424242;
     }
     
@@ -1871,11 +1871,11 @@ body {
 .email-input-container input {
     width: 100%;
     padding: 14px 18px;
-    border: 2px solid #e0e0e0;
+    border: 2px solid #424242;
     border-radius: 8px;
     font-size: 1rem;
     transition: all 0.3s ease;
-    background: #fafafa;
+    background: #2d2d2d;
 }
 
 .email-input-container input:focus {
