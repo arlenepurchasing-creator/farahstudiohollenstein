@@ -503,7 +503,7 @@ body {
 }
 
 .pdf-icon {
-    font-size: 3.0rem;
+    font-size: 4.0rem;
     color: #e74c3c;
     transition: all 0.3s ease;
 }
@@ -528,7 +528,7 @@ body {
 }
 
 .excel-icon {
-    font-size: 3.0rem;
+    font-size: 4.0rem;
     color: #27ae60;
     transition: all 0.3s ease;
 }
@@ -553,7 +553,7 @@ body {
 }
 
 .word-icon {
-    font-size: 3.0rem;
+    font-size: 4.0rem;
     color: #3498db;
     transition: all 0.3s ease;
 }
@@ -570,7 +570,7 @@ body {
 
 /* Document Content */
 .document-icon {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     position: relative;
 }
 
@@ -579,10 +579,10 @@ body {
 }
 
 .document-title {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     color: #ecf0f1;
     margin-bottom: 8px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1.3;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -743,7 +743,7 @@ body {
     .pdf-icon,
     .excel-icon,
     .word-icon {
-        font-size: 2.8rem;
+        font-size: 2.0rem;
     }
     
     .document-title {
@@ -774,7 +774,7 @@ body {
     .pdf-icon,
     .excel-icon,
     .word-icon {
-        font-size: 2.5rem;
+        font-size: 2.0rem;
     }
     
     .document-title {
@@ -814,7 +814,7 @@ body {
     .pdf-icon,
     .excel-icon,
     .word-icon {
-        font-size: 2.2rem;
+        font-size: 2.0rem;
     }
     
     .document-info {
